@@ -1,2 +1,3 @@
-# HelloWorld
-Tutorial Repository
+Hello World
+Messing around with my Tutorial Repository
+First attempt was disasterous. Did not close issue automatically. Trying again ...
